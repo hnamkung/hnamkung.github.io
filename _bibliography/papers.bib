@@ -1,9 +1,18 @@
 ---
 ---
 
+@inproceedings{sketchovsky,
+  abbr={NSDI},
+  title={Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches (to appear)},
+  author={Namkung, Hun and Liu, Zaoxing and Kim, Daehyeok and Sekar, Vyas and Steenkiste, Peter},
+  booktitle={20th USENIX Symposium on Networked Systems Design and Implementation (NSDI)},
+  year={2023},
+  selected={true}
+}
+
 @inproceedings{sketchlib,
   abbr={NSDI},
-  title={SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches (to appear)},
+  title={SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches},
   author={Namkung, Hun and Liu, Zaoxing and Kim, Daehyeok and Sekar, Vyas and Steenkiste, Peter},
   booktitle={19th USENIX Symposium on Networked Systems Design and Implementation (NSDI)},
   abstract={Sketching algorithms or sketches enable accurate network measurement results with low resource footprints. While emerging programmable switches are an attractive target to get these benefits, current implementations of sketches are either inefficient and/or infeasible on hardware. Our contributions in the paper are: (1) systematically analyzing the resource bottlenecks of existing sketch implementations in hardware; (2) identifying practical and correct-by-construction optimization techniques to tackle the identified bottlenecks; and (3) designing an easy-to-use library called SketchLib to help developers efficiently implement their sketch algorithms in switch hardware to benefit from these resource optimizations. Our evaluation on state-of-the-art sketches demonstrates that SketchLib reduces the hardware resource footprint up to 96% without impacting fidelity.},
@@ -14,7 +23,7 @@
 
 @inproceedings{accusketch,
   abbr={SOSR},
-  title={Telemetry Retrieval Inaccuracy in Programmable Switches: Analysis and Recommendations (to appear)},
+  title={Telemetry Retrieval Inaccuracy in Programmable Switches: Analysis and Recommendations},
   author={Namkung, Hun and Kim, Daehyeok and Liu, Zaoxing and Sekar, Vyas and Steenkiste, Peter },
   booktitle={Proceedings of the Symposium on SDN Research (SOSR)},
   abstract={Sketching algorithms or sketches are attractive as telemetry capabilities on programmable hardware switches since they offer rigorous accuracy guarantees and use compact data structures. However, we find that in practice, their actual implementations can have a significant (up to 94\times×) accuracy drop compared to theoretical expectations. We find that the delays incurred by pulling and resetting the data plane state induce accuracy degradation. We design and implement solutions to reduce the delays and show that our solutions can help eliminate almost all the inaccuracy of existing sketch workflows.},
