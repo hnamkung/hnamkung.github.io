@@ -15,10 +15,11 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
+I am a fifth-year PhD student in the [ECE Department](https://www.ece.cmu.edu/) at Carnegie Mellon University. I am fortunate to be co-advised by [Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). Prior to CMU, I received a BS degree in Computer Science from KAIST. My research interests lie in the intersection of network monitoring and programmable hardware devices. I'm joining [Conviva](https://www.conviva.com/) after my Ph.D. graduation.
 
-I am a fifth-year PhD student in the [ECE Department](https://www.ece.cmu.edu/) at Carnegie Mellon University. I am fortunate to be co-advised by [Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). Prior to CMU, I received a BS degree in Computer Science from KAIST. My research interests lie in the intersection of network monitoring and programmable hardware devices.
 
-**I’m currently on the job market!** I’m looking for an industry position where I can have hands-on experience on large-scale (network) systems. My interests are network measurements and/or programmable network devices.
+
+<!-- **I’m currently on the job market!** I’m looking for an industry position where I can have hands-on experience on large-scale (network) systems. My interests are network measurements and/or programmable network devices. -->
 
 <!-- It's even better 
 
