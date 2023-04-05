@@ -14,8 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-
-I am a fifth-year PhD student in the [ECE Department](https://www.ece.cmu.edu/) at Carnegie Mellon University. I am fortunate to be co-advised by [Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). Prior to CMU, I received a BS degree in Computer Science from KAIST. My research interests lie in the intersection of network monitoring and programmable hardware devices. I'm joining [Conviva](https://www.conviva.com/) after my Ph.D. graduation.
+I received my Ph.D. in Jan 2023 in Electrical and Computer Engineering at Carnegie Mellon University (CMU). I was fortunated to be co-advised by [Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). Prior to CMU, I received a BS degree in Computer Science from KAIST. My research interests lie in the intersection of network monitoring and programmable hardware devices. Now I'm a software engineer at [Conviva](https://www.conviva.com/).
 
 
 
