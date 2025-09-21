@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I received my Ph.D. in Jan 2023 in Electrical and Computer Engineering at Carnegie Mellon University (CMU). I was fortunated to be co-advised by [Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). Prior to CMU, I received a BS degree in Computer Science from KAIST. My research interests lie in the intersection of network monitoring and programmable hardware devices. Now I'm a software engineer at **Google**.
+I received my Ph.D. in Jan 2023 in Electrical and Computer Engineering at Carnegie Mellon University (CMU). I was fortunated to be co-advised by [Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). Prior to CMU, I received a BS degree in Computer Science from KAIST. My research interests lie in the intersection of network monitoring and programmable hardware devices. Now I'm a software engineer at **Google** (Bay Area).
 
 I am married to [Saerom Park](https://srompark.github.io/).
 
